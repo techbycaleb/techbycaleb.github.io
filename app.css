@@ -27,34 +27,3 @@ body {
 }
 a {
 }
-.button {
-    display: inline-block;
-    text-align: center;
-    vertical-align: middle;
-    padding: 12px 24px;
-    border: 1px solid #a12727;
-    border-radius: 8px;
-    background: #ff5656;
-    background: -webkit-gradient(linear, left top, left bottom, from(#ff5656), to(#992626));
-    background: -moz-linear-gradient(top, #ff5656, #992626);
-    background: linear-gradient(to bottom, #ff5656, #992626);
-    text-shadow: #591717 1px 1px 1px;
-    font: normal normal bold 29px arial;
-    color: #ffffff;
-    text-decoration: none;
-}
-.button:hover,
-.button:focus {
-    background: #ff6767;
-    background: -webkit-gradient(linear, left top, left bottom, from(#ff6767), to(#b82e2e));
-    background: -moz-linear-gradient(top, #ff6767, #b82e2e);
-    background: linear-gradient(to bottom, #ff6767, #b82e2e);
-    color: #ffffff;
-    text-decoration: none;
-}
-.button:active {
-    background: #993434;
-    background: -webkit-gradient(linear, left top, left bottom, from(#993434), to(#992626));
-    background: -moz-linear-gradient(top, #993434, #992626);
-    background: linear-gradient(to bottom, #993434, #992626);
-}
