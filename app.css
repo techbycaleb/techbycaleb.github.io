@@ -21,9 +21,10 @@ ul {
     display: inline;
     padding: 0px 10px 0px 10px;
     background-color: rgba(5,5,5,0.50);
+    text-align: center;
 }
 ol {
-    color: white;
+    color: black;
 }
 body {
     background-color: rgb(75, 178, 252);
