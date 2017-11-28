@@ -33,6 +33,9 @@ body {
     margin-right: 0px;
     margin-bottom:0px;
     margin-left: 0px;
+    padding: 0;
+    padding-top: 10px;
+    text-align: center;
 }
 a {
 }
