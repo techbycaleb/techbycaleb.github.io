@@ -25,6 +25,7 @@ ul {
 }
 ol {
     color: black;
+    text-align: center;
 }
 body {
     background-color: rgb(75, 178, 252);
