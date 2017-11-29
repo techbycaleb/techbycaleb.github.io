@@ -24,7 +24,7 @@ body {
 }
 a {
     color: white;
-    diplayL inline;
+    diplay: inline;
     padding: 0px 10px 0px 10px;
 }
 p {
