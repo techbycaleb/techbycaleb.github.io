@@ -10,17 +10,8 @@ h1 {
 h2 {
     text-align: center;
 }
-ul {
-    color: white;
-    display: inline;
-    padding: 0px 10px 0px 10px;
-    background-color: rgba(5,5,5,0.50);
-    text-align: center;
-}
-ol {
-    color: black;
-    text-align: center;
-}
+
+
 body {
     background-color: rgb(75, 178, 252);
     margin-top: 0px;
@@ -33,6 +24,8 @@ body {
 }
 a {
     color: white;
+    diplayL inline;
+    padding: 0px 10px 0px 10px;
 }
 p {
     text-align: center;
